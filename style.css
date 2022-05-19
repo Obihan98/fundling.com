@@ -1,0 +1,129 @@
+body{
+    font-family: "Montserrat";
+}
+
+#title{
+    background-color: rgb(255, 87, 87);
+    color: white;
+}
+
+#crowd-image{
+    width: 100%;
+    padding: 3%;
+}
+
+.container-fluid{
+    padding: 3% 20%;
+}
+
+.navbar{
+    padding-bottom: 3rem;
+}
+
+.nav-item{
+    padding: 0 12px;
+    font-style: bold;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 5vmin;
+    line-height: 1;
+}
+
+h2{
+    font-weight: 900;
+}
+
+h4{
+    font-weight: 900;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-style: bold;
+}
+
+.btn-download{
+    margin: 5px 5px;
+}
+
+.center{
+    margin: auto;
+}
+
+#features{
+    padding: 2% 15%;
+    max-width: 1500px;
+    margin: auto;
+}
+
+.feature{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: rgb(255, 131, 131);
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color:rgb(255, 87, 87);
+}
+
+#testimonials{
+    background-color: rgb(255, 87, 87);
+    text-align: center;
+    color: white;
+}
+
+.user-image{
+    width: 100px;
+    border-radius: 100%;
+    margin: 20px 20px;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+}
+
+#press{
+    background-color: rgb(255, 87, 87);
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.color-red{
+    background-color: rgb(255, 87, 87);
+}
+
+#pricing{
+    padding: 2% 15%;
+    max-width: 1500px;
+    margin: auto;
+    text-align: center;
+}
+
+.card{
+    margin: 20px 0;
+}
+
+.btn-outline-light{
+    background-color: rgb(255, 87, 87);
+}
+
+.btn-outline-light:hover{
+    background-color: white;
+    color:rgb(255, 87, 87);
+    border-color: rgb(255, 87, 87);
+}
+
+.make-inline{
+    display: inline;
+}
